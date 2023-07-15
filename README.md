@@ -2,7 +2,7 @@
 Dequantizing the Vitis ai quantized model to evaluate its performance on the test set in Pytorch. 
 
   - Requires Vitis AI, I have used vitis-ai-pytorch docker container
-  - Adjust the directory structure according to or change the dataset file path and model file path.
+  - Adjust the directory structure accordingly or change the dataset file path and model file path in the code.
 
 example: evaluate model on subset of 1000 images from val
 ```
